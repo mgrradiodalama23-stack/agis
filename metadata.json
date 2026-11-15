@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Area 7",
+  "description": "Portal digital resmi ATLAS | AZKO Area 7 Jakarta Selatan untuk akses tools, report center, mading area, dan informasi operasional tim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
